@@ -1,0 +1,1 @@
+wp-blog-header.php - Needs to be included when using wp-functions in a seperate script.
